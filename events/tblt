@@ -1,0 +1,3 @@
+# Pass all events to our one handler script
+event=video/tabletmode TBLT 0000008A 00000001
+action=/etc/acpi/rotateInv.sh

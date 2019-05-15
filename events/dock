@@ -1,0 +1,3 @@
+# Pass all events to our one handler script
+event=ibm/hotkey LEN0068:00 00000080 00006030
+action=/etc/acpi/betterdock.sh

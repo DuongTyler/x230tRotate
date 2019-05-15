@@ -1,0 +1,4 @@
+# Pass all events to our one handler script
+event=button/lid LID close
+action=
+#/etc/acpi/docking.sh

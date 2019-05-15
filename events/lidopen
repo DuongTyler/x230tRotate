@@ -1,0 +1,4 @@
+# Pass all events to our one handler script
+event=button/lid LID open
+action=
+#/etc/acpi/undocking.sh
